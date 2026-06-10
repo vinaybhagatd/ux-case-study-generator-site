@@ -98,6 +98,10 @@ section h2 {
   box-shadow: none !important;
 }
 
+.site-header {
+  display: none !important;
+}
+
 /* ------------------------------
    Pricing Box
 --------------------------------*/
