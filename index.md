@@ -8,7 +8,7 @@ title: Home
 <p>Generate a polished, portfolio‑ready case study in one click.</p>
 
 <div class="cta-container">
-  <a href="https://uxw.systeme.io/3f019f60-cea29d97" class="btn-primary" target="_blank" rel="noopener">
+  <a href="https://uxw.systeme.io/1def2e7a" class="btn-primary" target="_blank" rel="noopener">
     Generate Case Study
   </a>
 </div>
