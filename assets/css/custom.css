@@ -59,6 +59,7 @@ section h2 {
 /* ------------------------------
    Hero Section
 --------------------------------*/
+
 #hero {
   text-align: center;
   padding: 80px 20px;
@@ -79,6 +80,11 @@ section h2 {
   margin: auto;
   margin-bottom: 30px;
   color: #333;
+}
+
+#hero {
+  background-color: #f7f9fc;   /* keep the soft background */
+  background-image: none !important;
 }
 
 /* ------------------------------
