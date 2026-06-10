@@ -12,106 +12,70 @@ body {
 main {
   max-width: 900px;
   margin: auto;
-  padding: 40px 20px;
+  padding: 60px 20px;
 }
 
-/* ------------------------------
-   Section Styling
---------------------------------*/
-section {
-  margin-bottom: 60px;
-}
-
-section h2 {
-  font-size: 1.8rem;
-  margin-bottom: 16px;
-  font-weight: 700;
-}
-
-/* ------------------------------
-   Buttons
---------------------------------*/
-
-/* Primary CTA Button */
-.btn-success {
-  display: inline-block;
-  padding: 14px 28px;
-  background: #28a745;        /* Strong green */
-  color: #ffffff !important;  /* White text for contrast */
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: 700;
-  font-size: 1.1rem;
-  border: none;
-  transition: background 0.2s ease, transform 0.1s ease;
-}
-
-.btn-success:hover {
-  background: #1e7e34;        /* Darker green on hover */
-  transform: translateY(-2px);
-}
-
-.btn-success:active {
-  background: #155d27;
-  transform: translateY(0);
-}
-
-/* ------------------------------
-   Hero Section
---------------------------------*/
-
-#hero {
-  text-align: center;
-  padding: 80px 20px;
-  background: #f7f9fc;
-  border-radius: 12px;
-  margin-bottom: 60px;
-}
-
-#hero h1 {
-  font-size: 2.4rem;
-  margin-bottom: 20px;
-  font-weight: 800;
-}
-
-#hero p {
-  font-size: 1.2rem;
-  max-width: 700px;
-  margin: auto;
-  margin-bottom: 30px;
-  color: #333;
-}
-
-#hero {
-  background-image: none !important;
-}
-
-#hero {
-  background-color: #f7f9fc;   /* keep the soft background */
-  background-image: none !important;
-}
-
-/* Remove Minima theme's default header background */
-.site-header {
-  background-image: none !important;
-  background: transparent !important;
-  box-shadow: none !important;
-}
-
+/* Remove Minima header completely */
 .site-header {
   display: none !important;
 }
 
 /* ------------------------------
-   Pricing Box
+   Headings & Text
 --------------------------------*/
-#pricing {
-  background: #f0f5ff;
-  padding: 40px;
-  border-radius: 12px;
+h1 {
+  font-size: 2.6rem;
+  font-weight: 800;
+  margin-bottom: 20px;
+  text-align: center;
 }
 
-#pricing p strong {
-  font-size: 1.4rem;
-  color: #000;
+.tagline {
+  font-size: 1.2rem;
+  color: #333;
+  max-width: 700px;
+  margin: 0 auto 40px auto;
+  text-align: center;
+}
+
+/* ------------------------------
+   Content List
+--------------------------------*/
+.feature-list {
+  margin: 40px auto;
+  max-width: 600px;
+  padding-left: 20px;
+  font-size: 1.1rem;
+}
+
+/* ------------------------------
+   CTA Button
+--------------------------------*/
+.btn-primary {
+  display: inline-block;
+  padding: 14px 32px;
+  background: #0078D7;
+  color: #ffffff !important;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.1rem;
+  transition: background 0.2s ease, transform 0.1s ease;
+  text-align: center;
+}
+
+.btn-primary:hover {
+  background: #005fa3;
+  transform: translateY(-2px);
+}
+
+.btn-primary:active {
+  background: #004b82;
+  transform: translateY(0);
+}
+
+/* Center CTA */
+.cta-container {
+  text-align: center;
+  margin-top: 40px;
 }

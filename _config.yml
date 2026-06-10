@@ -1,3 +1,6 @@
 title: UX Case Study Generator
 description: Turn Project Notes into Consultant‑Grade UX Case Studies
 theme: minima
+
+# Disable Minima header/nav
+header_pages: []
