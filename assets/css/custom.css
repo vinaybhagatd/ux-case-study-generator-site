@@ -83,6 +83,10 @@ section h2 {
 }
 
 #hero {
+  background-image: none !important;
+}
+
+#hero {
   background-color: #f7f9fc;   /* keep the soft background */
   background-image: none !important;
 }
