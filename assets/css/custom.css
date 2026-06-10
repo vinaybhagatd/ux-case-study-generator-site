@@ -24,14 +24,14 @@ main {
    Headings & Text
 --------------------------------*/
 h1 {
-  font-size: 2.6rem;
+  font-size: 2.2rem;
   font-weight: 800;
   margin-bottom: 20px;
   text-align: center;
 }
 
 .tagline {
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   color: #333;
   max-width: 700px;
   margin: 0 auto 40px auto;
