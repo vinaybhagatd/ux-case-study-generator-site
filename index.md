@@ -2,6 +2,10 @@
 layout: default
 title: Home
 ---
+<h1>Instantly Transform Project Notes into High‑Conversion Case Studies</h1>
+<p></p>
+<p>Offline. Private. Consultant‑grade case studies that convert.</p>
+<p></p>
 <p>Its simple. For exponential growth of your consultancy, career, and business, just enter: Project Brief, Your Role, Product / Feature, and Target Audience and click this button.</p>
 <p></p>
 <p></p>
@@ -13,6 +17,14 @@ title: Home
   </a>
 </div>
 
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 
