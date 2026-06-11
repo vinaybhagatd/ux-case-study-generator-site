@@ -79,3 +79,16 @@ h1 {
   text-align: center;
   margin-top: 40px;
 }
+/* Remove extra top spacing on landing page */
+.page-content .wrapper {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* Remove default top margin on first heading */
+.page-content h1:first-child,
+.page-content p:first-child,
+.page-content div:first-child {
+  margin-top: 0 !important;
+}
+
