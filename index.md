@@ -13,7 +13,7 @@ title: Home
   </h2>
 
   <p style="font-size:1.1rem; max-width:800px; margin:0 auto 30px; line-height:1.6;">
-    It’s simple. For exponential growth of your consultancy, career, and business, just enter:
+    It’s simple. For exponential growth of your consultancy, career, and business, you just need:
     <strong>Project Brief, Your Role, Product / Feature, and Target Audience</strong>.
   </p>
 
