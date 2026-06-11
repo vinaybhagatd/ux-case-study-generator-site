@@ -4,37 +4,43 @@ title: Home
 ---
 <h1>Instantly Transform Project Notes into High‑Conversion Case Studies</h1>
 <p></p>
-<p>Offline. Private. Consultant‑grade case studies that convert.</p>
-<p></p>
-<p>Its simple. For exponential growth of your consultancy, career, and business, just enter: Project Brief, Your Role, Product / Feature, and Target Audience and click this button.</p>
 <p></p>
 <p></p>
-<p>Generate a polished, portfolio‑ready case study in one click.</p>
+<h2>Offline. Private. Consultant‑grade case studies that convert.</h2>
+<p></p>
+<p></p>
+<p></p>
+<h4>Its simple. For exponential growth of your consultancy, career, and business, just enter: Project Brief, Your Role, Product / Feature, and Target Audience and click this button.</h4>
+<p></p>
+<p></p>
+<h4>Generate a polished, portfolio‑ready case study in one click.</h4>
 
 <div class="cta-container">
   <a href="https://uxw.systeme.io/1def2e7a" class="btn-primary" target="_blank" rel="noopener">
     Generate Case Study
   </a>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </div>
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 
 <p>Disclaimers & Disclosures</p>
 
 <p></p>
 <p></p>
+<p></p>
 
-<p>Disclaimer: The testimonials, case studies, and examples presented on this website are for informational purposes only.</p>
+<h5>Disclaimer: The testimonials, case studies, and examples presented on this website are for informational purposes only.</h5>
 
+<p></p>
 <p></p>
 <p></p>
 
@@ -42,9 +48,11 @@ title: Home
 
 <p></p>
 <p></p>
+<p></p>
 
 <p>FTC Affiliate Disclosure: If you purchase this product through an affiliate link, the person who referred you may receive a financial commission.</p>
 
+<p></p>
 <p></p>
 <p></p>
 
