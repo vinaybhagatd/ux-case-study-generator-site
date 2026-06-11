@@ -14,7 +14,7 @@ title: Home
 
   <p style="font-size:1.1rem; max-width:800px; margin:0 auto 30px; line-height:1.6;">
     It’s simple. For exponential growth of your consultancy, career, and business, just enter:
-    <strong>Project Brief, Your Role, Product / Feature, and Target Audience</strong> — then click the button below.
+    <strong>Project Brief, Your Role, Product / Feature, and Target Audience</strong>.
   </p>
 
   <h3 style="font-size:1.4rem; margin:40px 0 50px; color:#222;">
@@ -57,6 +57,33 @@ title: Home
 
   <p style="margin-bottom:0;">
     This site is not associated with, endorsed by, or affiliated with Google, Facebook, or any other third‑party platform mentioned herein.
+  </p>
+
+</div>
+<!-- =============================== -->
+<!--   ADDITIONAL LEGAL DISCLAIMER   -->
+<!-- =============================== -->
+
+<div class="legal-disclaimer" style="max-width:900px; margin:60px auto 80px; padding:40px; background:#f5f5f5; border-radius:12px; line-height:1.7; font-size:1rem;">
+
+  <h3 style="text-align:center; margin-bottom:30px; font-size:1.5rem;">
+    Additional Legal Disclaimer
+  </h3>
+
+  <p style="margin-bottom:25px;">
+    <strong>Disclaimer:</strong> Please note that this product does not provide any guarantee of income or success. The results achieved by the product owner or any other individuals mentioned are not indicative of future success or earnings.
+  </p>
+
+  <p style="margin-bottom:25px;">
+    This website is not affiliated with Facebook or any of its associated entities. Once you navigate away from Facebook, the responsibility for the content and its usage lies solely with the user.
+  </p>
+
+  <p style="margin-bottom:25px;">
+    All content on this website, including but not limited to text, images, and multimedia, is protected by copyright law and the Digital Millennium Copyright Act (DMCA). Unauthorized copying, duplication, modification, or theft — whether intentional or unintentional — is strictly prohibited. Violators will be prosecuted to the fullest extent of the law.
+  </p>
+
+  <p style="margin-bottom:0;">
+    <strong>JVZoo Retailer Disclosure:</strong> JVZoo serves as the retailer for the products featured on this site. JVZoo® is a registered trademark of BBC Systems Inc., a Florida corporation located at 1809 E. Broadway Street, Suite 125, Oviedo, FL 32765, USA, and is used with permission. The role of JVZoo as a retailer does not constitute an endorsement, approval, or review of these products or any claims, statements, or opinions used in their promotion.
   </p>
 
 </div>
