@@ -2,9 +2,9 @@
 layout: default
 title: Home
 ---
-
-<p>Just enter: Project Brief, Your Role, Product / Feature, and Target Audience</p>
-<p></p>  
+<p>Its simple. For exponential growth of your consultancy, career, and business, just enter: Project Brief, Your Role, Product / Feature, and Target Audience and click this button.</p>
+<p></p>
+<p></p>
 <p>Generate a polished, portfolio‑ready case study in one click.</p>
 
 <div class="cta-container">
